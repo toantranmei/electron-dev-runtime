@@ -1,6 +1,6 @@
 {
   "name": "electron-dev-runtime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Sky Albert<trantoan.fox.97@gmail.com>",
   "description": "Electron development run environment.",
   "main": "./lib/index.js",
