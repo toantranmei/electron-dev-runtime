@@ -1,6 +1,7 @@
 {
   "name": "electron-dev-runtime",
   "version": "1.0.0",
+  "author": "Sky Albert<trantoan.fox.97@gmail.com>",
   "description": "Electron development run environment.",
   "main": "./lib/index.js",
   "bin": {
@@ -10,6 +11,13 @@
     "lint": "eslint lib --ext .js --fix"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trantoan960/electron-dev-runtime"
+  },
+  "bugs": {
+    "url": "https://github.com/trantoan960/electron-dev-runtime/issues"
+  },
   "files": [
     "lib"
   ],
